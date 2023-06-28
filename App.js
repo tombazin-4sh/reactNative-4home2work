@@ -10,7 +10,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Title1>4home2work</Title1>
+      <Title1>IndTrip</Title1>
       <StatusBar style="auto" />
     </View>
   );
